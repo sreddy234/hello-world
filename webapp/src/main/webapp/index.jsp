@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project deployed to Kubernetes   </h1>
+<h1> Hello, Welcome to Simple DevOps Project deployed to Kubernetes on 3/16/2020  </h1>
+<h1> Hello, Charan, Is your day productive ? </h1>
 <h2> Deploying on Tomcat Server </h2>
 <h2> Glad to see you here </h2>
